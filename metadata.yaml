@@ -1,0 +1,33 @@
+_repo: Angelinette_72260
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Doff, Neel
+    alias: Doff, Cornelia Hubertina
+    birthdate: 1858
+    deathdate: 1941
+    gutenberg_agent_id: '52588'
+    url: http://www.gutenberg.org/2009/agents/52588
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Neel_Doff
+    - https://nl.wikipedia.org/wiki/Neel_Doff
+    - https://fr.wikipedia.org/wiki/Neel_Doff
+description: ''
+gutenberg_issued: '2023-11-29'
+identifiers:
+  gutenberg: '72260'
+language: fr
+pgterms:marc904: http://aml-cfwb.be/catalogues/general/titres/130881
+pgterms:marc905: 20231119092053doff
+pgterms:marc906: '1923'
+pgterms:marc907: FR
+production_note: Laurent Vogel (This book was produced from images generously made
+  available by Archives et Musée de la Littérature (AML))
+publication_note: '  $aParis :$bG. Crès, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Angelinette
+url: http://www.gutenberg.org/ebooks/72260
