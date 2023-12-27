@@ -1,5 +1,8 @@
 _repo: Angelinette_72260
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72260-h/images/cover.jpg
 creator:
   author:
     agent_name: Doff, Neel
@@ -13,6 +16,8 @@ creator:
     - https://nl.wikipedia.org/wiki/Neel_Doff
     - https://fr.wikipedia.org/wiki/Neel_Doff
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72260#Angelinette
 gutenberg_issued: '2023-11-29'
 identifiers:
   gutenberg: '72260'
